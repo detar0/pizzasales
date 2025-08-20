@@ -25,5 +25,5 @@ It combines **data cleaning, exploratory analysis, and visual storytelling** usi
 ---
 
 Preview
-![Alt Text](images/pizzas.gif)
+![dashboard](images/pizzas.gif)
 
